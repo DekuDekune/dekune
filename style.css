@@ -1,0 +1,106 @@
+.navbar{
+  background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+  }
+  .menu {
+    display: flex;
+    list-style: none;
+  }
+  .zai-avah {
+    margin-right: 15px;
+  }
+  .menu-item {
+    color: white;
+    text-decoration: none;
+  }
+  img{
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin-right: 20px;
+  }
+.menu-item:hover{
+  color: #F87201  ;
+}
+.kb{
+  text-decoration: none;
+  color: red;
+}
+.kb:hover{
+color: #0CF801;
+}
+.w{
+  display: flex;
+}
+.s{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 40vw;
+
+}
+.dev{
+  background-color: #feb291;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 500px;
+
+
+
+}
+.t{
+  display: flex;
+  flex-direction: row;
+  background-color: #F87201;
+  justify-content: space-around;
+  padding: 20px;
+  
+}
+.age{
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+  color: black;
+  align-items: center;
+}
+.match{
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+  align-items: center;
+  color: black;
+}
+.goal{
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+  color:black;
+  align-items: center;
+}
+.assist{
+  display: flex;
+  flex:1;
+  justify-content: space-around;
+  color: black;
+  align-items: center;
+}
+.a{
+  font-size: large;
+}
+.l{
+  display: flex;
+  flex: 1;
+}
+.fl{
+  color: white;
+  text-decoration: none;
+  
+}
+

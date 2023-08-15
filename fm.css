@@ -1,0 +1,13 @@
+.flex-1{
+    display: flex;
+    flex-direction: row;
+}
+body{
+    background-color: black;
+    color: white;
+}
+img{
+    width: 50vw;
+    height: 30vw;
+    object-fit: contain;
+}

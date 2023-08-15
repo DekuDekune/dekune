@@ -1,0 +1,15 @@
+body{
+    color: white;
+    background-image:url(dark-anime-05.jpg);
+
+}
+.ts{
+    color:white;
+    text-decoration: none;
+    display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+.ts:hover{
+    color: #F8010C;
+}

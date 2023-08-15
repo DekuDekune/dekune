@@ -1,0 +1,31 @@
+.ok-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: purple;
+}
+.ok{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: pink;
+}
+.ok-2 {
+    width: 200px;
+    height: 25px;
+   
+}
+.too{
+    display: flex;
+   align-items: center;
+    flex-direction: column;
+   
+}
+.ok-3{
+    background-color: aqua;
+    width: 70px;
+    height: 25px;
+}
+body{
+     background-color: antiquewhite;
+}

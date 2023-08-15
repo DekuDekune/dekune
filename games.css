@@ -1,0 +1,11 @@
+body{
+    background-color:blue ;
+ 
+}
+.fuck{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+  
+   
+}
